@@ -19,7 +19,9 @@ L’objectif de ce mini-projet est d’extraire, filtrer et analyser des sous-en
 ## Explications des étapes
 
 **Téléchargement et extraction** : Téléchargement du fichier `BF.zip` depuis GeoNames et extraction de `BF.txt`.
+
 **Prétraitement** : Sélection des colonnes pertinentes, conversion des coordonnées en float et création du CSV intermédiaire `burkina_location.csv`.
+
 **Filtres et extractions** :
    - Lieux contenant "gounghin"
    - Lieux dont la première lettre est comprise entre A et P
