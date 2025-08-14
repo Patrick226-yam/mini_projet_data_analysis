@@ -25,6 +25,7 @@ L’objectif de ce mini-projet est d’extraire, filtrer et analyser des sous-en
    - Lieux dont la première lettre est comprise entre A et P
    - Latitude et longitude minimales avec les noms correspondants
    - Lieux avec latitude >= 11 et longitude <= 0.5
+
 **Export Excel** : Création d’un fichier Excel `mini_projet.xlsx` avec les sous-ensembles sur différentes feuilles.
 
 ---
